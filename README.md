@@ -4,8 +4,8 @@
 
 
 - 👋 Hi, I’m @Sterben500
-- 👀 I’m interested in Cybersecurity
+- 👀 I’m interested in offensive Cybersecurity
 - 🌱 I’m currently learning Data recon and networking security
-- 📫 How to reach me on: https://astra.icu (website still in development)
+- 📫 You can reach me on: https://astra.icu (website still in development)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Sterben500=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sterben500)](https://github.com/anuraghazra/github-readme-stats)
