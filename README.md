@@ -8,4 +8,4 @@
 - 🌱 I’m currently learning Data recon and networking security
 - 📫 How to reach me on: https://astra.icu (website still in development)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?sterben500=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Sterben500=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
