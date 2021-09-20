@@ -8,5 +8,4 @@
 - 🌱 I’m currently learning Data recon and networking security
 - 📫 How to reach me on: https://astra.icu (website still in development)
 
-img src="https://github.com/<sterben500>/<activity>/blob/<activity2>/images/stat.svg" alt="Alternative Text"/>
-Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?sterben500=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
