@@ -4,9 +4,10 @@
 
 
 - 👋 Hi, I’m @Sterben500
-- 👀 I’m interested in Cybersecurity
+- 🛡️ I’m interested in Cybersecurity more in the offensive part
 - 🌱 I’m currently learning Data recon and networking security
 - 📫 How to reach me on: https://astra.icu (website still in development)
+- 🕒 Most of the time i'll answer in less than 24hrs. 
 
 img src="https://github.com/<sterben500>/<activity>/blob/<activity2>/images/stat.svg" alt="Alternative Text"/>
 Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
