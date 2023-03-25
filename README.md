@@ -16,3 +16,7 @@ I'm 0Nep, a red teamer wannabe with a passion for hacking and cybersecurity. Cur
 ## Most Used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sterben500&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Contribution Graph](https://github-readme-stats.vercel.app/api?username=Sterben500&count_private=true&show_icons=true&theme=dark) 
+
+##
+
