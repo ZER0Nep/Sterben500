@@ -4,7 +4,7 @@
 You are the ![:name](https://count.getloli.com/get/@:Sterben500) th visitor to my profile.
 
 
-I'm 0Nep, a red teamer wannabe with a passion for hacking and cybersecurity. Currently, I'm working on sharpening my skills and knowledge by collaborating with like-minded individuals in the hacker group NSO-Group.cc, and completing cyber security labs on platforms such as Hack The Box.
+I'm 0Nep, a red teamer wannabe with a passion for hacking and cybersecurity. Currently, I'm working on sharpening my skills and knowledge by collaborating with like-minded individuals, and completing cyber security labs on platforms such as Hack The Box.
 
 ## Skills
 
