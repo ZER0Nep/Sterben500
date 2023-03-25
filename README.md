@@ -8,8 +8,6 @@ I'm 0Nep, a red teamer wannabe with a passion for hacking and cybersecurity. Cur
 
 ## Skills
 
-- Hacking
-- Cybersecurity
 - Red Teaming
 - Penetration Testing
 
