@@ -1,8 +1,6 @@
 
 # Hey there! 👋
 
-You are the ![:name](https://count.getloli.com/get/@:ZER0Nep) th visitor to my profile.
-
 
 I'm 0Nep, a red teamer wannabe with a passion for hacking and cybersecurity. Currently, I'm working on sharpening my skills and knowledge by collaborating with like-minded individuals, and completing cyber security labs on platforms such as Hack The Box.
 
